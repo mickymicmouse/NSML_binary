@@ -1,0 +1,6 @@
+                """
+                tv.transforms.RandomAffine(0.1),
+                tv.transforms.RandomCrop(32),
+                tv.transforms.RandomHorizontalFlip(p=0.5),
+                tv.transforms.RandomVerticalFlip(p=0.5)
+                """
